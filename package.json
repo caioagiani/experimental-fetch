@@ -1,0 +1,24 @@
+{
+  "name": "experimental-fetch",
+  "version": "1.0.0",
+  "description": "node-fetch with experimental features",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --experimental-fetch --no-warnings index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "fetch",
+    "http",
+    "https",
+    "experimental",
+    "node-fetch",
+    "node-fetch-experimental"
+  ],
+  "author": "",
+  "license": "ISC",
+   "engines": {
+    "node": ">=17"
+  }
+}
